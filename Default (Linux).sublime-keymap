@@ -1,0 +1,4 @@
+[
+	{ "keys": ["alt+r"], "command": "insert_snippet", "args": {"name": "Packages/EasyRequire/Require.sublime-snippet"}, "context": [{ "key": "selector", "operator": "equal", "operand": "source.js" }] },
+	{ "keys": ["alt+shift+r"], "command": "insert_snippet", "args": {"name": "Packages/EasyRequire/RequireCtor.sublime-snippet"}, "context": [{ "key": "selector", "operator": "equal", "operand": "source.js" }] }
+]

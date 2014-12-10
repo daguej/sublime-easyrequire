@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[${1/(.+\/)|^(\w)|(?:-(\w))/(?2:\u$2)(?3:\u$3)/g} = require('${1:$TM_SELECTED_TEXT}')]]></content>
+    <scope>source.js</scope>
+    <description>Require (constructor)</description>
+</snippet>
