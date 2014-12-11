@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+var ${1:module} = require('${1:module}');
+]]></content>
+    <tabTrigger>rq</tabTrigger>
+    <scope>source.js</scope>
+    <description>Require</description>
+</snippet>
